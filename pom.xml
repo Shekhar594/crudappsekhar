@@ -5,7 +5,7 @@
 	<artifactId>harish1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>Simple crud app</name>
+	<name>Simple crud app1</name>
 	<description>CRUD application demo</description>
 	<dependencies>
 		<dependency>
